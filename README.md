@@ -1,5 +1,3 @@
 # config
 
 Spring MSA
-
-# config
